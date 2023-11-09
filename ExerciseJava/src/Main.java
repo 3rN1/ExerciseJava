@@ -28,7 +28,15 @@ public class Main {
         //arrayInverter.getArrayInverter();
 
         /* Is Even Odd or Multiplicity */
-        EvenOddMultip evenOddMultip=new EvenOddMultip();
-        evenOddMultip.getEvenOddMultip();
+        //EvenOddMultip evenOddMultip=new EvenOddMultip();
+        //evenOddMultip.getEvenOddMultip();
+
+        /* Options Menu */
+        //Menu menu = new Menu();
+        //menu.getMenu();
+
+        /* Random Number */
+        //RandomNumber randomNumber=new RandomNumber();
+        //randomNumber.getRandomNumber();
     }
 }
